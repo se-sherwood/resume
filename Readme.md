@@ -4,7 +4,7 @@ My resume.
 
 ## Picture
 
-Narwhals - hang out in the Arctic, prefer deep dives (up to 1500m!) to shallow exploration. 
+Narwhals - hang out in the Arctic, prefer deep dives (up to 1500m!) over shallow exploration. 
 
 <img src= 'narwhal2.jpg' width=400>
 
